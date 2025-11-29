@@ -55,19 +55,3 @@ Telemetry loops back to improve programming.
 ### 7. **Final output → stable warp bubble**
 
 ---
-
-# ⭐ Want more diagrams?  
-I can generate as many as you like:
-
-- **Warp bubble structure (cross-section)**  
-- **Quantum node network diagram**  
-- **Spacetime emergence diagram**  
-- **Engineered-curvature pipeline**  
-- **Ship hull layer breakdown**  
-- **Update-cycle timing diagram**  
-- **High-level flight/motion diagram**
-
-Just tell me:
-
-**“Make another diagram”**  
-and tell me **what concept it should represent.**
