@@ -102,3 +102,6 @@ Released under the MIT License.
 
 ## Final Note
 This project explores alternate-physics ideas within a structured, thoughtful framework. It does not claim physical truth.
+
+**Version:** v0.1.0 — Core Theory Release
+
