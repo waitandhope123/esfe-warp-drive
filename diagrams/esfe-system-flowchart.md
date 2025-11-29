@@ -3,21 +3,21 @@
 ```mermaid
 flowchart TD
 
-    A[Ship Interior (Crew, Reactor, Systems)]
+    A[Ship Interior Crew Reactor Systems]
 
-    B[Quantum Shell (Node Lattice and Photonic Control)]
+    B[Quantum Shell Node Lattice Photonic Control]
 
-    C[Entanglement Programming (Gradients and Update Cycles)]
+    C[Entanglement Programming Gradients Update Cycles]
 
-    D[Warp Bubble Formation (Engineered Spacetime Region)]
+    D[Warp Bubble Formation Engineered Spacetime]
 
-    E[Stability Check (Error Correction and Sync)]
+    E[Stability Check Error Correction Sync]
 
-    F[Bubble Motion (Asymmetric Gradients)]
+    F[Bubble Motion Asymmetric Gradients]
 
-    G[Telemetry and Diagnostics (Bubble Stress and Health)]
+    G[Telemetry Diagnostics Bubble Stress Health]
 
-    H[Output: Stable Warp Bubble]
+    H[Stable Warp Bubble Output]
     
     %% Connections
     A --> B
