@@ -54,8 +54,6 @@ A geometric analogy:
 
 **GR curvature ≈ entanglement gradients**
 
-(no separators here to avoid YAML parsing)
-
 ## 4. Time and Causality in ESFE
 
 Time is not a fundamental flowing dimension.  
